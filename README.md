@@ -5,26 +5,26 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:09090F,50:312E81,100:6D28D9&text=JWALA%20BAHELIYA&fontColor=FFFFFF&fontSize=52&fontAlignY=45&desc=Senior%20Frontend%20Developer%20%7C%20UI%20Engineer&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Jwala Baheliya banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:09090F,50:312E81,100:6D28D9&text=JWALA%20BAHELIYA&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Senior%20Frontend%20Developer&descAlignY=60&descSize=18&animation=fadeIn&section=header" alt="Jwala Baheliya — Senior Frontend Developer" width="100%" />
 
 <br/>
 
 <a href="https://jwalabaheliya-dev.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6D5DFB?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-6D5DFB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/jwala-baheliya-a82a5411b/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jaybaheliya@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's talk" />
 </a>
 <a href="https://github.com/jaybaheliya?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+beautiful+digital+experiences;Turning+Figma+designs+into+pixel-perfect+UI;React.js+%7C+Next.js+%7C+JavaScript+%7C+TypeScript;Clean+Code.+Scalable+Architecture.+Great+UX." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+beautiful+digital+experiences;Engineering+accessible+frontend+interfaces;Turning+designs+into+production-ready+products" alt="Building beautiful digital experiences" />
 
 <br/>
 
@@ -177,11 +177,11 @@ I have contributed to digital projects across banking, finance, real estate, ent
 <div align="center">
 
 <a href="https://jwalabaheliya-dev.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_PERSONAL_PORTFOLIO-Explore-6D5DFB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_PERSONAL_PORTFOLIO-Explore-6D5DFB?style=for-the-badge" alt="Explore personal portfolio" />
 </a>
 
 <a href="https://github.com/jaybaheliya?tab=repositories">
-<img src="https://img.shields.io/badge/💻_GITHUB_REPOSITORIES-Explore-24292F?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻_GITHUB_REPOSITORIES-Explore-24292F?style=for-the-badge&logo=github" alt="Explore GitHub repositories" />
 </a>
 
 </div>
@@ -190,21 +190,11 @@ I have contributed to digital projects across banking, finance, real estate, ent
 
 ## ✦ GitHub Analytics
 
-<div align="center">
+The third-party statistics and graph image services previously embedded here can be unavailable or rate-limited, which caused broken images. These direct GitHub links work without external image generators:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaybaheliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=818CF8&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybaheliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=E2E8F0" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=jaybaheliya&theme=tokyonight&hide_border=true&background=09090F&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaybaheliya&bg_color=09090F&color=A78BFA&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
-
-</div>
+- [View my GitHub profile and contribution activity](https://github.com/jaybaheliya)
+- [Browse my repositories](https://github.com/jaybaheliya?tab=repositories)
+- [View my contribution graph](https://github.com/jaybaheliya?tab=overview&from=2026-01-01&to=2026-12-31)
 
 ---
 
@@ -219,10 +209,10 @@ I'm always open to connecting with developers, designers, and technology enthusi
 <br/>
 
 <a href="mailto:jaybaheliya@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
 </a>
 <a href="https://www.linkedin.com/in/jwala-baheliya-a82a5411b/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 <br/><br/>
