@@ -20,7 +20,7 @@ I build polished, user-focused web experiences and care about the details that m
 I’m Jwala Singh Baheliya, also known as Jay. I’m a Senior Frontend Developer who enjoys shaping web experiences from the initial idea through to the finished interface. I bring a UI/UX perspective to my work and value thoughtful design, collaboration, and useful outcomes.
 
 - 💻 **Role:** Senior Frontend Developer
-- 🎨 **Focus:** Frontend development and UI/UX
+- 🎨 **Focus:** Frontend development and AI Builder Products
 - 🌐 **Portfolio:** [jwalabaheliya-dev.vercel.app](https://jwalabaheliya-dev.vercel.app/)
 - 💼 **LinkedIn:** [Jwala Baheliya](https://www.linkedin.com/in/jwala-baheliya-a82a5411b/)
 - 📧 **Email:** [jaybaheliya@gmail.com](mailto:jaybaheliya@gmail.com)
